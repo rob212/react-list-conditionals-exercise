@@ -1,0 +1,19 @@
+.validation {
+    background-color: #ccc;
+    width: 60%;
+    margin: 16px auto;
+    border: 2px dashed black;
+}
+
+.warning {
+    margin: 0 10px;
+    font-size: 1.2em;
+}
+
+.text-too-short {
+    color: red;
+}
+
+.text-good {
+    color: green;
+}
